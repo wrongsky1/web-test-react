@@ -1,0 +1,17 @@
+
+.DS_*
+*.log
+.editorconfig
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
