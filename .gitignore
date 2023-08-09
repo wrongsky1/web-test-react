@@ -2,6 +2,7 @@
 .DS_*
 *.log
 .editorconfig
+.vscode
 logs
 **/*.backup.*
 **/*.back.*
